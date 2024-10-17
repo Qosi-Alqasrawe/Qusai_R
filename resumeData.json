@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name": "Qusai Awwad",
+    "occupation": "Industrial Engineer",
+    "description": "Certified Supply Chain Analyst (CSCA) and skilled in optimizing operations, streamlining processes, and driving efficiency",
+    "image": "ME.jpeg",
+    "bio": "As an Industrial Engineer with hands-on experience managing production lines at Mudieb Haddad & Sons Company, I focus on improving efficiency and maintaining safety standards. I have a strong background in problem-solving, project management, system simulations, and supply chain management. I am committed to leveraging Lean & Continuous Improvement tools to enhance productivity and align with organizational goals.",
+    "contactmessage": "Feel free to reach out to me to discuss topics related to industrial engineering or supply chain management.",
+    "email": "qusai.fawzi.awwad1@gmail.com",
+    "phone": "+962790911971",
+    "address": {
+      "street": "Street Culture",
+      "city": "Jordan",
+      "state": "Zarqa",
+      "zip": null
+    },
+    "website": null,
+    "resumedownload": "https://drive.google.com/file/d/1MVHttDUGmUiSasU2j0R9bqg7sxt9ASAP/view?usp=sharing",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/qusai-awwad-b970a4321/",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Technical & Personal Skills",
+    "education": [
+      {
+        "school": "The Hashemite University",
+        "degree": "Bachelor's Degree in Industrial Engineering",
+        "graduated": "February 2025",
+        "description": "Graduating with a Very Good GPA."
+      }
+    ],
+    "work": [
+      {
+        "company": "Mudieb Haddad & Sons Company (Mr.Chips)",
+        "title": "Production Engineering Intern",
+        "years": "July 2024 - August 2024",
+        "description": "Managed the production line, ensuring efficient operation, improvement, and adherence to safety and operational standards. Addtion to calculating daily production, ensuring required quantities are met and maintaining smooth operation of production lines."
+      }
+    ],
+    "Certifications": [
+      {
+        "nameofcertifications": "Certified Supply Chain Analyst (CSCA)",
+        "giventhecertifications": "International Supply Chain Education Alliance (ISCEA)",
+        "dateofCertifications": "July 2024",
+        "idofCertifications": "Certificate No: 2407272014",
+        "descriptionofcertifications": "Through this certification, I gained knowledge in areas like demand forecasting, logistics, and lean management. I learned how to optimize supply chain processes, enhance operational efficiency, and apply continuous improvement principles to drive better business outcomes."
+      }
+    ],
+    "Achievements": [
+      {
+        "Achive": "• Third Place in ISCEA Global Supply Chain Case Competition",
+        "Achivedes": "Winning the third place at the national level in Jordan a competition focused on risk management. Our team analysed supply chain performance, Identified and assessed risks, and proposed solutions to avoid these risks."
+      },
+      {
+        "Achive": "• Global Student Challenge Participant",
+        "Achivedes": "Took part in the Global Final, using (The Fresh Connection) simulation to make strategic supply chain decisions."
+      },
+      {
+        "Achive": "• Winner of the Supply Chain Hackathon (1st)",
+        "Achivedes": "Participated in a competitive supply chain simulation (The Fresh Connection), applying strategic decisions to outperform other teams and achieve the top position."
+      }
+    ],
+      "skills": [
+        {
+          "name": "Supply Chain Management",
+          "level": "90%"
+        },
+        {
+          "name": "Project Management Tools",
+          "level": "80%"
+        },
+        {
+          "name": "Lean Management Principles",
+          "level": "80%"
+        },
+        {
+          "name": "Demand Forecasting",
+          "level": "85%"
+        },
+        {
+          "name": "Microsoft Excel",
+          "level": "90%"
+        },
+        {
+          "name": "AI & Machine Learning",
+          "level": "80%"
+        },
+        {
+          "name": "Logistics Management",
+          "level": "85%"
+        },
+        {
+          "name": "Warehouse Management",
+          "level": "85%"
+        },
+        {
+          "name": "Production Line Management",
+          "level": "90%"
+        },
+        {
+          "name": "System Simulations",
+          "level": "70%"
+        },
+        {
+          "name": "Risk Management",
+          "level": "85%"
+        },
+        {
+          "name": "Team Collaboration",
+          "level": "95%"
+        },
+        {
+          "name": "Analytical Thinking",
+          "level": "90%"
+        },
+        {
+          "name": "Technical Problem-Solving",
+          "level": "85%"
+        },
+        {
+          "name": "Communication",
+          "level": "90%"
+        }
+      ]
+    },
+"portfolio": {
+  "projects": [
+      {
+        "title": "Efficient Project Management for EngineerHub Project",
+        "image": "https://media.licdn.com/dms/image/D4D12AQHAzpZZDBIkfA/article-cover_image-shrink_720_1280/0/1710486640359?e=2147483647&v=beta&t=_kP7RyfolRjZCXpwZO3GJqC4Trnozc_G8gP1uCmzilc",
+        "description": "We structured a whole project from A to Z, using tools like Gantt charts, CPM, and WBS. We also applied risk assessment and budget management to ensure successful and high-quality delivery.",
+        "url": "https://drive.google.com/file/d/176emZIlIB_vZNNqd_a_24jb3XcNPGZqb/view?usp=sharing"
+      },
+      {
+        "title": "E-commerce Warehouse Optimization with SIMIO Software",
+        "image": "https://www.simio.com/wp-content/uploads/2024/01/Simio-Forward-Thinking.png",
+        "description": "We developed a simulation model to optimize warehouse operations for an e-commerce site, focusing on staffing, inventory reorder points, and cost analysis.",
+        "url": "https://drive.google.com/file/d/1BqyDOOTyK-aHRTm2BY1p2JKFZQjmjKc-/view?usp=sharing"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Qusai Fawzi is a talented industrial engineer with a strong grasp of complex systems. His work on our machine model project was outstanding, demonstrating both technical expertise and innovative problem-solving. I highly recommend him for any engineering challenge.",
+        "user": "Dr.Sahar"
+      }
+    ]
+  }
+}
