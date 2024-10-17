@@ -201,6 +201,11 @@ ul#nav li.current a { color: #F06000; }
    color: #fff;
    margin-bottom: 12px;
 }
+@media (max-width: 480px) {
+   #about h2 {
+      text-align: center;
+   }
+}
 #about p {
    line-height: 30px;
    color: #7A7A7A;
