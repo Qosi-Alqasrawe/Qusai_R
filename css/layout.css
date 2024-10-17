@@ -885,6 +885,12 @@ call-to-action .button {
 	color: #0D0D0D;
 	background: #fff;
 }
+ @media (max-width: 480px) {
+   #contact fieldset div:last-child{
+      display: flex;
+      justify-content: center;
+   }
+}
 #contact span.required {
 	color: #11ABB0;
 	font-size: 13px;
