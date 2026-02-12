@@ -1,11 +1,11 @@
 {
   "main": {
     "name": "Qusai Awwad",
-    "occupation": "Industrial Engineer",
-    "description": "Certified Supply Chain Analyst (CSCA) and skilled in optimizing operations, streamlining processes, and driving efficiency",
+    "occupation": "Supply Chain & Planning Analyst | Manufacturing | SAP ERP | Python",
+    "description": "Certified Supply Chain Analyst (CSCA) with hands-on experience in manufacturing, SAP production system setup, Make-to-Order planning, inventory monitoring, and Python-based analytics.",
     "image": "ME.jpeg",
-    "bio": "Industrial Engineering graduate with a Very Good GPA, hands-on experience in production line management, and a Certified Supply Chain Analyst. Skilled in system simulations, Lean principles, and project management with a proven track record in optimizing processes and enhancing team performance. Committed to leveraging resource management and Lean & Continuous Improvement tools to enhance productivity and align with organizational goals.",
-    "contactmessage": "Feel free to reach out to me to discuss topics related to industrial engineering or supply chain management.",
+    "bio": "Certified Supply Chain Analyst (CSCA) with practical experience in production planning and manufacturing operations. Specialized in SAP ERP execution, including production order management, material control, reporting, and full production system setup. Strong background in Make-to-Order planning, inventory monitoring, and translating operational data into actionable insights through Python-based analytical tools.",
+    "contactmessage": "Feel free to reach out to discuss supply chain planning, SAP-enabled manufacturing operations, and data-driven process improvement.",
     "email": "qusai.fawzi.awwad1@gmail.com",
     "phone": "+962790911971",
     "address": {
@@ -30,16 +30,22 @@
       {
         "school": "The Hashemite University",
         "degree": "Bachelor's Degree in Industrial Engineering",
-        "graduated": "February 2025",
-        "description": "Graduating with a Very Good GPA."
+        "graduated": "October 2020 - February 2025",
+        "description": "Overall Grade: Very Good."
       }
     ],
     "work": [
       {
-        "company": "Mudieb Haddad & Sons Company (Mr.Chips)",
-        "title": "Intern-Production Engineer",
+        "company": "Hammoudeh-Group (Al Mafraq Plastic), Mafraq",
+        "title": "Production & Supply Chain Engineer",
+        "years": "March 2025 - Present",
+        "description": "Analyzed production, inventory, and material data to support planning and operational decisions. Executed SAP ERP transactions for production orders, material issuance, inventory tracking, and reporting. Collaborated with warehouse and management teams to improve planning accuracy, workflow efficiency, and material flow while reducing waste. Monitored raw material availability and supported reorder planning to prevent shortages. Developed Make-to-Order production plans to meet customer demand and minimize excess inventory. Key achievement: led end-to-end SAP production system setup for the department, standardized naming and coding for raw materials and finished goods, built complete BOM structures with waste and consumption logic, customized production reports, and coordinated with the SAP implementation partner to validate configurations."
+      },
+      {
+        "company": "Mudieb Haddad & Sons Company (Mr.Chips), Zarqa",
+        "title": "Intern",
         "years": "July 2024 - August 2024",
-        "description": "Managed the production line, ensuring efficient operation, improvement, and adherence to safety and operational standards. Addtion to calculating daily production, ensuring required quantities are met and maintaining smooth operation of production lines."
+        "description": "Managed production line operations to ensure efficiency, continuous improvement, and compliance with safety standards. Calculated daily production requirements to maintain output targets and stable line performance."
       }
     ],
     "Certifications": [
@@ -47,122 +53,123 @@
         "nameofcertifications": "Certified Supply Chain Analyst (CSCA)",
         "giventhecertifications": "International Supply Chain Education Alliance (ISCEA)",
         "dateofCertifications": "July 2024",
-        "idofCertifications": "Certificate No: 2407272014",
-        "descriptionofcertifications": "Through this certification, I gained knowledge in areas like demand forecasting, logistics, and lean management. I learned how to optimize supply chain processes, enhance operational efficiency, and apply continuous improvement principles to drive better business outcomes."
+        "idofCertifications": "",
+        "descriptionofcertifications": "Professional certification focused on supply chain planning, inventory management, and operational decision-making."
       },
       {
         "nameofcertifications": "Career Essentials in Project Management",
-        "giventhecertifications": "Microsoft and LinkedIn",
-        "dateofCertifications": "Nov 2024",
-        "idofCertifications": "Course Duration: 14 hours, 41 minutes",
-        "descriptionofcertifications": "I developed skills in project planning, scheduling, budgeting, and effective communication to manage projects efficiently and deliver results on time."
+        "giventhecertifications": "Microsoft & LinkedIn",
+        "dateofCertifications": "November 2024",
+        "idofCertifications": "",
+        "descriptionofcertifications": "Applied project planning and execution fundamentals to improve delivery, coordination, and reporting quality."
       }
     ],
     "Achievements": [
       {
-        "Achive": "• Third Place in ISCEA Global Supply Chain Case Competition",
-        "Achivedes": "Successfully developed innovative supply chain strategies by analyzing performance metrics, mitigating risks, and delivering actionable insights for process optimization."
+        "Achive": "• 1st Place – Supply Chain Hackathon",
+        "Achivedes": "Achieved first place through strategic decision-making in The Fresh Connection simulation and delivery of high-impact supply chain outcomes."
       },
       {
-        "Achive": "• Global Student Challenge Participant",
-        "Achivedes": "Advanced to the global finals of The Fresh Connection simulation, making strategic supply chain decisions to optimize performance, minimize risks, and align with long-term business objectives"
+        "Achive": "• Global Finalist – Global Student Challenge (The Fresh Connection)",
+        "Achivedes": "Advanced to the global finals by applying data-backed supply chain decisions under competitive conditions."
       },
       {
-        "Achive": "• Winner of the Supply Chain Hackathon (1st)",
-        "Achivedes": "Winner of the Supply Chain Hackathon (1st Place): Achieved first place in a highly competitive supply chain simulation competition, leveraging strategic decision-making in The Fresh Connection game to outperform other teams and deliver exceptional results."
+        "Achive": "• 3rd Place – ISCEA Global Supply Chain Case Competition",
+        "Achivedes": "Designed practical supply chain strategies with a focus on risk mitigation, planning effectiveness, and measurable operational improvement."
       }
     ],
-      "skills": [
-        {
-          "name": "Supply Chain Management",
-          "level": "90%"
-        },
-        {
-          "name": "Project Management Tools",
-          "level": "80%"
-        },
-        {
-          "name": "Lean Management Principles",
-          "level": "80%"
-        },
-        {
-          "name": "AI Integration",
-          "level": "85%"
-        },
-        {
-          "name": "Microsoft Excel",
-          "level": "90%"
-        },
-        {
-          "name": "Machine Learning",
-          "level": "80%"
-        },
-        {
-          "name": "Logistics Management",
-          "level": "85%"
-        },
-        {
-          "name": "Demand Forecasting ",
-          "level": "95%"
-        },
-        {
-          "name": "Production Line Management",
-          "level": "90%"
-        },
-        {
-          "name": "Prompt Engineering",
-          "level": "90%"
-        },
-        {
-          "name": "Risk Management",
-          "level": "85%"
-        },
-        {
-          "name": "Team Collaboration",
-          "level": "95%"
-        },
-        {
-          "name": "Analytical Thinking",
-          "level": "90%"
-        },
-        {
-          "name": "Technical Problem-Solving",
-          "level": "85%"
-        },
-        {
-          "name": "Communication",
-          "level": "90%"
-        }
-      ]
-    },
-"portfolio": {
-  "projects": [
+    "skills": [
       {
-        "title": "Efficient Project Management for EngineerHub Project",
-        "image": "https://media.licdn.com/dms/image/D4D12AQHAzpZZDBIkfA/article-cover_image-shrink_720_1280/0/1710486640359?e=2147483647&v=beta&t=_kP7RyfolRjZCXpwZO3GJqC4Trnozc_G8gP1uCmzilc",
-        "description": "We structured a whole project from A to Z, using tools like Gantt charts, CPM, and WBS. We also applied risk assessment and budget management to ensure successful and high-quality delivery.",
-        "url": "https://drive.google.com/file/d/176emZIlIB_vZNNqd_a_24jb3XcNPGZqb/view?usp=sharing"
+        "name": "Supply Chain Management",
+        "level": "95%"
       },
       {
-        "title": "Optimizing Project Management with Artificial Intelligence",
-        "image": "https://xiengineering.com/wp-content/uploads/2023/10/AdobeStock_519767884-1-scaled.jpeg",
-        "description": "This project leverages AI and machine learning to transform capital project management by using predictive models, automating reporting, and optimizing resource allocation to boost efficiency, cut costs, and improve outcomes.",
-        "url": "https://drive.google.com/file/d/1GBKYvCF3HB2jAUS-6WEd5F9N43AeNigp/view?usp=sharing"
+        "name": "Production Planning (Make-to-Order)",
+        "level": "95%"
       },
       {
-        "title": "E-commerce Warehouse Optimization with SIMIO Software",
-        "image": "https://www.simio.com/wp-content/uploads/2024/01/Simio-Forward-Thinking.png",
-        "description": "We developed a simulation model to optimize warehouse operations for an e-commerce site, focusing on staffing, inventory reorder points, and cost analysis.",
-        "url": "https://drive.google.com/file/d/1BqyDOOTyK-aHRTm2BY1p2JKFZQjmjKc-/view?usp=sharing"
+        "name": "Inventory Management & Reorder Planning",
+        "level": "93%"
+      },
+      {
+        "name": "SAP ERP Systems (Production Setup, BOM, Reporting)",
+        "level": "95%"
+      },
+      {
+        "name": "MRP & Manufacturing Operations",
+        "level": "90%"
+      },
+      {
+        "name": "Python (Data Analysis & Planning Tools)",
+        "level": "92%"
+      },
+      {
+        "name": "Data Analysis & Reporting",
+        "level": "92%"
+      },
+      {
+        "name": "Process Optimization",
+        "level": "90%"
+      },
+      {
+        "name": "Microsoft Excel",
+        "level": "90%"
+      },
+      {
+        "name": "Analytical Thinking & Data-Driven Problem Solving",
+        "level": "95%"
+      },
+      {
+        "name": "Attention to Detail & Data Accuracy",
+        "level": "93%"
+      },
+      {
+        "name": "Cross-Functional Collaboration",
+        "level": "90%"
+      },
+      {
+        "name": "Technical Problem-Solving",
+        "level": "90%"
+      },
+      {
+        "name": "Continuous Learning & Adaptability",
+        "level": "92%"
+      },
+      {
+        "name": "Languages: Arabic (Native), English (Very Good)",
+        "level": "95%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Stock Planner – Python",
+        "image": "images/portfolio/P2.jpg",
+        "description": "Developed a Python-based planning tool to analyze stock coverage, production requirements, and planning quantities. Automated months-of-coverage and required production calculations to support data-driven planning decisions.",
+        "url": ""
+      },
+      {
+        "title": "Supply Chain Planning – Python",
+        "image": "images/portfolio/P2.png",
+        "description": "Built an end-to-end supply chain planning and inventory analysis project to improve operational visibility and planning accuracy.",
+        "url": ""
+      },
+      {
+        "title": "Stock Market Data Analysis – Python",
+        "image": "images/portfolio/resume-website.jpg",
+        "description": "Created a Python-based stock market analytics system using multiple indicators and data analysis methods to support evidence-based decision-making.",
+        "url": ""
+      },
+      {
+        "title": "Optimizing Project Management with Artificial Intelligence – Python & OpenAI",
+        "image": "images/portfolio/linkedin.jpg",
+        "description": "Integrated AI and machine learning to improve capital project management through predictive modeling, automated reporting, resource optimization, and progress tracking.",
+        "url": ""
       }
     ]
   },
   "testimonials": {
-    "testimonials": [
-      {
-        "text": "Qusai Fawzi is a talented industrial engineer with a strong grasp of complex systems. His work on our machine model project was outstanding, demonstrating both technical expertise and innovative problem-solving. I highly recommend him for any engineering challenge.",
-        "user": "."
-      }
-    ]
+    "testimonials": []
   }
 }
