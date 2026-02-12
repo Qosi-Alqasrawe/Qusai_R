@@ -2,10 +2,10 @@
   "main": {
     "name": "Qusai Awwad",
     "occupation": "Supply Chain & Planning Analyst | Manufacturing | SAP ERP | Python",
-    "description": "Certified Supply Chain Analyst (CSCA) with hands-on experience in manufacturing, SAP production system setup, Make-to-Order planning, inventory monitoring, and Python-based analytics.",
+    "description": "Certified Supply Chain Analyst (CSCA) with manufacturing experience in SAP production setup, Make-to-Order planning, inventory monitoring, and Python-based decision support.",
     "image": "ME.jpeg",
-    "bio": "Certified Supply Chain Analyst (CSCA) with practical experience in production planning and manufacturing operations. Specialized in SAP ERP execution, including production order management, material control, reporting, and full production system setup. Strong background in Make-to-Order planning, inventory monitoring, and translating operational data into actionable insights through Python-based analytical tools.",
-    "contactmessage": "Feel free to reach out to discuss supply chain planning, SAP-enabled manufacturing operations, and data-driven process improvement.",
+    "bio": "Certified Supply Chain Analyst (CSCA) with hands-on experience in manufacturing operations, production planning, and SAP ERP execution. Proven record in end-to-end SAP production system setup, BOM structuring, production reporting, and master data standardization. Skilled in Make-to-Order planning, inventory monitoring, and Python-driven analytics to improve planning accuracy, reduce waste, and support data-driven decisions.",
+    "contactmessage": "Feel free to reach out to discuss supply chain planning, SAP-enabled manufacturing operations, and Python-based analytics.",
     "email": "qusai.fawzi.awwad1@gmail.com",
     "phone": "+962790911971",
     "address": {
@@ -30,7 +30,7 @@
       {
         "school": "The Hashemite University",
         "degree": "Bachelor's Degree in Industrial Engineering",
-        "graduated": "October 2020 - February 2025",
+        "graduated": "Oct 2020 - Feb 2025",
         "description": "Overall Grade: Very Good."
       }
     ],
@@ -38,44 +38,44 @@
       {
         "company": "Hammoudeh-Group (Al Mafraq Plastic), Mafraq",
         "title": "Production & Supply Chain Engineer",
-        "years": "March 2025 - Present",
-        "description": "Analyzed production, inventory, and material data to support planning and operational decisions. Executed SAP ERP transactions for production orders, material issuance, inventory tracking, and reporting. Collaborated with warehouse and management teams to improve planning accuracy, workflow efficiency, and material flow while reducing waste. Monitored raw material availability and supported reorder planning to prevent shortages. Developed Make-to-Order production plans to meet customer demand and minimize excess inventory. Key achievement: led end-to-end SAP production system setup for the department, standardized naming and coding for raw materials and finished goods, built complete BOM structures with waste and consumption logic, customized production reports, and coordinated with the SAP implementation partner to validate configurations."
+        "years": "Mar 2025 - Present",
+        "description": "Analyzed production, inventory, and material data to support planning and operational decisions. Executed SAP ERP transactions for production orders, material issuance, inventory tracking, and reporting. Improved planning accuracy and workflow efficiency through cross-functional coordination with warehouse and management teams. Monitored raw material availability and supported reorder planning to prevent shortages. Built Make-to-Order production plans to meet demand while minimizing excess inventory. Key achievement: led full SAP production system setup, standardized naming/coding for raw materials and finished goods, built BOMs with waste and consumption logic, customized production reports, and coordinated with the SAP implementation partner to validate system configuration."
       },
       {
         "company": "Mudieb Haddad & Sons Company (Mr.Chips), Zarqa",
-        "title": "Intern",
-        "years": "July 2024 - August 2024",
-        "description": "Managed production line operations to ensure efficiency, continuous improvement, and compliance with safety standards. Calculated daily production requirements to maintain output targets and stable line performance."
+        "title": "Production Intern",
+        "years": "Jul 2024 - Aug 2024",
+        "description": "Supported production line operations to ensure efficiency, continuous improvement, and compliance with safety standards. Calculated daily production requirements to maintain target output and stable line performance."
       }
     ],
     "Certifications": [
       {
         "nameofcertifications": "Certified Supply Chain Analyst (CSCA)",
         "giventhecertifications": "International Supply Chain Education Alliance (ISCEA)",
-        "dateofCertifications": "July 2024",
-        "idofCertifications": "",
-        "descriptionofcertifications": "Professional certification focused on supply chain planning, inventory management, and operational decision-making."
+        "dateofCertifications": "Jul 2024",
+        "idofCertifications": "Credential available upon request",
+        "descriptionofcertifications": "Validated capability in supply chain planning, inventory control, logistics fundamentals, and performance improvement."
       },
       {
         "nameofcertifications": "Career Essentials in Project Management",
         "giventhecertifications": "Microsoft & LinkedIn",
-        "dateofCertifications": "November 2024",
-        "idofCertifications": "",
-        "descriptionofcertifications": "Applied project planning and execution fundamentals to improve delivery, coordination, and reporting quality."
+        "dateofCertifications": "Nov 2024",
+        "idofCertifications": "Credential available upon request",
+        "descriptionofcertifications": "Strengthened project planning, execution, communication, and reporting skills to support effective cross-functional delivery."
       }
     ],
     "Achievements": [
       {
-        "Achive": "• 1st Place – Supply Chain Hackathon",
-        "Achivedes": "Achieved first place through strategic decision-making in The Fresh Connection simulation and delivery of high-impact supply chain outcomes."
+        "Achive": "• 1st Place - Supply Chain Hackathon",
+        "Achivedes": "Won first place through strategic decision-making and measurable performance gains in The Fresh Connection simulation."
       },
       {
-        "Achive": "• Global Finalist – Global Student Challenge (The Fresh Connection)",
-        "Achivedes": "Advanced to the global finals by applying data-backed supply chain decisions under competitive conditions."
+        "Achive": "• Global Finalist - Global Student Challenge (The Fresh Connection)",
+        "Achivedes": "Advanced to global finals by applying data-driven planning and risk-aware supply chain decisions."
       },
       {
-        "Achive": "• 3rd Place – ISCEA Global Supply Chain Case Competition",
-        "Achivedes": "Designed practical supply chain strategies with a focus on risk mitigation, planning effectiveness, and measurable operational improvement."
+        "Achive": "• 3rd Place - ISCEA Global Supply Chain Case Competition",
+        "Achivedes": "Delivered high-impact supply chain strategy recommendations focused on planning accuracy and risk mitigation."
       }
     ],
     "skills": [
@@ -92,7 +92,7 @@
         "level": "93%"
       },
       {
-        "name": "SAP ERP Systems (Production Setup, BOM, Reporting)",
+        "name": "SAP ERP (Production Setup, BOM Structuring, Reporting)",
         "level": "95%"
       },
       {
@@ -116,7 +116,7 @@
         "level": "90%"
       },
       {
-        "name": "Analytical Thinking & Data-Driven Problem Solving",
+        "name": "Analytical Thinking",
         "level": "95%"
       },
       {
@@ -124,11 +124,11 @@
         "level": "93%"
       },
       {
-        "name": "Cross-Functional Collaboration",
+        "name": "Technical Problem-Solving",
         "level": "90%"
       },
       {
-        "name": "Technical Problem-Solving",
+        "name": "Cross-Functional Collaboration",
         "level": "90%"
       },
       {
@@ -136,7 +136,7 @@
         "level": "92%"
       },
       {
-        "name": "Languages: Arabic (Native), English (Very Good)",
+        "name": "Arabic (Native) | English (Very Good)",
         "level": "95%"
       }
     ]
@@ -144,28 +144,28 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Stock Planner – Python",
+        "title": "Stock Planner - Python",
         "image": "images/portfolio/P2.jpg",
-        "description": "Developed a Python-based planning tool to analyze stock coverage, production requirements, and planning quantities. Automated months-of-coverage and required production calculations to support data-driven planning decisions.",
-        "url": ""
+        "description": "Developed a Python-based planning tool to analyze stock coverage, production requirements, and planning quantities. Automated months-of-coverage and required production calculations to improve planning decisions.",
+        "url": "#"
       },
       {
-        "title": "Supply Chain Planning – Python",
+        "title": "Supply Chain Planning - Python",
         "image": "images/portfolio/P2.png",
-        "description": "Built an end-to-end supply chain planning and inventory analysis project to improve operational visibility and planning accuracy.",
-        "url": ""
+        "description": "Built an end-to-end supply chain planning and inventory analysis project to improve planning visibility and forecast quality.",
+        "url": "#"
       },
       {
-        "title": "Stock Market Data Analysis – Python",
+        "title": "Stock Market Data Analysis - Python",
         "image": "images/portfolio/resume-website.jpg",
-        "description": "Created a Python-based stock market analytics system using multiple indicators and data analysis methods to support evidence-based decision-making.",
-        "url": ""
+        "description": "Built a Python-based data analysis system using multiple indicators to support structured, data-driven decision-making.",
+        "url": "#"
       },
       {
-        "title": "Optimizing Project Management with Artificial Intelligence – Python & OpenAI",
+        "title": "Optimizing Project Management with Artificial Intelligence - Python & OpenAI",
         "image": "images/portfolio/linkedin.jpg",
-        "description": "Integrated AI and machine learning to improve capital project management through predictive modeling, automated reporting, resource optimization, and progress tracking.",
-        "url": ""
+        "description": "Applied AI and machine learning for predictive modeling, reporting automation, resource allocation optimization, and project progress tracking to improve efficiency and reduce cost.",
+        "url": "#"
       }
     ]
   },
