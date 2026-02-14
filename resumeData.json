@@ -146,7 +146,7 @@
         {
             "title": "Stock Planner - Python",
             "image": "https://g.top4top.io/p_3697fhjuk2.png",
-            "description": "Developed a Python-based production planning and inventory analysis tool focused on evaluating stock coverage, material requirements, and optimizing production quantities to support accurate Make-to-Order planning decisions.",
+            "description": "Developed a Python-based production planning tool to analyze stock, material needs, and production quantities, supporting accurate Make-to-Order planning.",
             "url": "https://stock-planner.streamlit.app/"
         },
         {
