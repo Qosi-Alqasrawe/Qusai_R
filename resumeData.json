@@ -15,7 +15,7 @@
       "zip": null
     },
     "website": null,
-    "resumedownload": "https://drive.google.com/file/d/1QojLyBLWdlXCr9BuRFFfUhjrKzbtWQpb/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1MVHttDUGmUiSasU2j0R9bqg7sxt9ASAP/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -39,7 +39,7 @@
         "company": "Hammoudeh-Group (Al Mafraq Plastic), Mafraq",
         "title": "Production & Supply Chain Engineer",
         "years": "Mar 2025 - Present",
-        "description": "Analyzed production, inventory, and material data to support planning and operational decisions. Executed SAP ERP transactions for production orders, material issuance, inventory tracking, and reporting. Improved planning accuracy and workflow efficiency through cross-functional coordination with warehouse and management teams. Monitored raw material availability and supported reorder planning to prevent shortages. Built Make-to-Order production plans to meet demand while minimizing excess inventory. Key achievement: led full SAP production system setup, standardized naming/coding for raw materials and finished goods, built BOMs with waste and consumption logic, customized production reports, and coordinated with the SAP implementation partner to validate system configuration."
+        "description": "Analyzed production and inventory data to support planning decisions. Executed SAP ERP transactions for production orders, material issuance, and inventory tracking. Improved planning accuracy through coordination with warehouse and management teams. Monitored raw materials and supported reorder planning to prevent shortages. Developed Make-to-Order plans to balance demand and inventory. Led SAP production system setup, standardized material coding, built BOMs with waste logic, customized reports, and coordinated system validation with the implementation partner."
       },
       {
         "company": "Mudieb Haddad & Sons Company (Mr.Chips), Zarqa",
@@ -81,55 +81,55 @@
     "skills": [
       {
         "name": "Supply Chain Management",
-        "level": "95%"
+        "level": "90%"
       },
       {
         "name": "Production Planning (Make-to-Order)",
-        "level": "95%"
+        "level": "98%"
       },
       {
         "name": "Inventory Management & Reorder Planning",
-        "level": "93%"
+        "level": "92%"
       },
       {
         "name": "SAP ERP (Production Setup, BOM Structuring, Reporting)",
-        "level": "95%"
+        "level": "85%"
       },
       {
         "name": "MRP & Manufacturing Operations",
-        "level": "90%"
-      },
-      {
-        "name": "Python (Data Analysis & Planning Tools)",
-        "level": "92%"
-      },
-      {
-        "name": "Data Analysis & Reporting",
-        "level": "92%"
-      },
-      {
-        "name": "Process Optimization",
-        "level": "90%"
-      },
-      {
-        "name": "Microsoft Excel",
-        "level": "90%"
-      },
-      {
-        "name": "Analytical Thinking",
         "level": "95%"
       },
       {
+        "name": "Python (Data Analysis & Planning Tools)",
+        "level": "80%"
+      },
+      {
+        "name": "Data Analysis & Reporting",
+        "level": "90%"
+      },
+      {
+        "name": "Process Optimization",
+        "level": "95%"
+      },
+      {
+        "name": "Microsoft Excel",
+        "level": "98%"
+      },
+      {
+        "name": "Analytical Thinking",
+        "level": "85%"
+      },
+      {
         "name": "Attention to Detail & Data Accuracy",
-        "level": "93%"
+        "level": "90%"
       },
       {
         "name": "Technical Problem-Solving",
-        "level": "90%"
+        "level": "95%"
       },
       {
         "name": "Cross-Functional Collaboration",
-        "level": "90%"
+        "level": "98%"
       },
       {
         "name": "Continuous Learning & Adaptability",
@@ -143,31 +143,32 @@
   },
   "portfolio": {
     "projects": [
-      {
-        "title": "Stock Planner - Python",
-        "image": "images/portfolio/P2.jpg",
-        "description": "Developed a Python-based planning tool to analyze stock coverage, production requirements, and planning quantities. Automated months-of-coverage and required production calculations to improve planning decisions.",
-        "url": "#"
-      },
-      {
-        "title": "Supply Chain Planning - Python",
-        "image": "images/portfolio/P2.png",
-        "description": "Built an end-to-end supply chain planning and inventory analysis project to improve planning visibility and forecast quality.",
-        "url": "#"
-      },
-      {
-        "title": "Stock Market Data Analysis - Python",
-        "image": "images/portfolio/resume-website.jpg",
-        "description": "Built a Python-based data analysis system using multiple indicators to support structured, data-driven decision-making.",
-        "url": "#"
-      },
-      {
-        "title": "Optimizing Project Management with Artificial Intelligence - Python & OpenAI",
-        "image": "images/portfolio/linkedin.jpg",
-        "description": "Applied AI and machine learning for predictive modeling, reporting automation, resource allocation optimization, and project progress tracking to improve efficiency and reduce cost.",
-        "url": "#"
-      }
+        {
+            "title": "Stock Planner - Python",
+            "image": "https://g.top4top.io/p_3697fhjuk2.png",
+            "description": "Developed a Python-based production planning tool to analyze stock coverage, material requirements, and required production quantities. Automated months-of-coverage calculations to support Make-to-Order planning decisions and improve inventory control accuracy.",
+            "url": "#"
+        },
+        {
+            "title": "Supply Chain Planning - Python",
+            "image": "https://h.top4top.io/p_3697v6f8k3.png",
+            "description": "Designed an end-to-end supply chain planning and inventory analysis system focused on improving demand visibility, planning accuracy, and material flow efficiency within manufacturing operations.",
+            "url": "#"
+        },
+        {
+            "title": "Stock Market Data Analysis - Python",
+            "image": "https://f.top4top.io/p_3697p2vgi1.png",
+            "description": "Built a structured financial data analysis system using Python and multiple technical indicators to support analytical thinking and data-driven investment decision-making.",
+            "url": "#"
+        },
+        {
+            "title": "Optimizing Project Management with Artificial Intelligence - Python & OpenAI",
+            "image": "images/portfolio/P2.jpg",
+            "description": "Integrated AI-driven predictive modeling and automated reporting to enhance capital project monitoring, resource allocation efficiency, and progress tracking through data-driven optimization.",
+            "url": "https://drive.google.com/file/d/1GBKYvCF3HB2jAUS-6WEd5F9N43AeNigp/view?usp=sharing"
+        }
     ]
+
   },
   "testimonials": {
     "testimonials": []
