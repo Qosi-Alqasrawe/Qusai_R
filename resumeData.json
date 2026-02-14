@@ -147,19 +147,19 @@
             "title": "Stock Planner - Python",
             "image": "https://g.top4top.io/p_3697fhjuk2.png",
             "description": "Developed a Python-based production planning tool to analyze stock coverage, material requirements, and required production quantities. Automated months-of-coverage calculations to support Make-to-Order planning decisions and improve inventory control accuracy.",
-            "url": "#"
+            "url": "https://stock-planner.streamlit.app/"
         },
         {
             "title": "Supply Chain Planning - Python",
             "image": "https://h.top4top.io/p_3697v6f8k3.png",
             "description": "Designed an end-to-end supply chain planning and inventory analysis system focused on improving demand visibility, planning accuracy, and material flow efficiency within manufacturing operations.",
-            "url": "#"
+            "url": "https://supply-chain-porject.streamlit.app/"
         },
         {
             "title": "Stock Market Data Analysis - Python",
             "image": "https://f.top4top.io/p_3697p2vgi1.png",
             "description": "Built a structured financial data analysis system using Python and multiple technical indicators to support analytical thinking and data-driven investment decision-making.",
-            "url": "#"
+            "url": "https://stockanalyzerprojects.streamlit.app/"
         },
         {
             "title": "Optimizing Project Management with Artificial Intelligence - Python & OpenAI",
