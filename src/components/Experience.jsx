@@ -76,7 +76,7 @@ export default function Experience() {
           </span>
           <ol className="tl-list">
             {experience.map((job, i) => (
-              <Item key={job.company} job={job} index={i} defaultOpen={i < 2} />
+              <Item key={job.company} job={job} index={i} defaultOpen />
             ))}
           </ol>
         </div>
