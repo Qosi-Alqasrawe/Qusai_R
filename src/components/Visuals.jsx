@@ -168,7 +168,6 @@ export default function Visual({ kind }) {
   return (
     <figure className="visual">
       <C />
-      <figcaption className="mono">Illustrative diagram · not a screenshot</figcaption>
     </figure>
   )
 }

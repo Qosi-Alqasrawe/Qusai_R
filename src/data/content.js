@@ -6,7 +6,7 @@ export const profile = {
   name: 'Qusai Fawzi Awwad',
   title: 'Industrial Engineer | Supply Chain & Manufacturing | ERP & Data Analytics',
   intro:
-    'I connect factory-floor operations with supply chain planning, ERP systems and data. From SAP production setup to Python planning tools, I turn operational requirements into workflows that teams can actually run.',
+    'Industrial Engineer who turns operational complexity into systems that run. I have led a production team of about 60, led the SAP production setup from material coding to BOMs, and built Python planning tools that turn raw data into clear decisions.',
   email: 'qusai.fawzi.awwad1@gmail.com',
   location: 'Zarqa, Jordan',
   linkedin: 'https://www.linkedin.com/in/qusai-awwad/',
@@ -25,7 +25,7 @@ export const nav = [
 ]
 
 export const heroFacts = [
-  { value: '~60', label: 'People led on the production floor' },
+  { value: '~60', label: 'People led in the production department' },
   { value: 'SAP + Odoo', label: 'ERP platforms worked with' },
   { value: 'CSCA', label: 'ISCEA certified' },
   { value: '1st', label: 'Supply Chain Hackathon' },
@@ -63,7 +63,7 @@ export const about = {
 
 export const experience = [
   {
-    company: 'UNIVAL-JO (Trusted Union)',
+    company: 'UNIVAL-JO (Trusted Union For Industrial Consultation)',
     role: 'Planning Engineer & Business Development',
     place: 'Amman',
     dates: 'Sep 2026 – Present',
@@ -102,8 +102,8 @@ export const experience = [
     dates: 'Jul 2024 – Aug 2024',
     summary: 'Hands-on production line experience and daily production calculation.',
     points: [
-      'Managed the production line to keep operation efficient and within safety standards.',
-      'Calculated daily production to meet required quantities and keep lines running.',
+      'Managed the production line, ensuring efficient operation, improvement, and adherence to safety standards.',
+      'Calculated daily production, ensuring required quantities are met and maintaining operation of production lines.',
     ],
     tools: ['Production line management', 'Safety standards'],
   },

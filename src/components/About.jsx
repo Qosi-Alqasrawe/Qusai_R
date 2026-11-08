@@ -11,7 +11,7 @@ export default function About() {
           id="about-title"
           index="01"
           eyebrow="About"
-          title="Where the factory floor meets the data"
+          title="Where the production department meets the data"
         />
         <div className="about-grid">
           <Reveal className="about-photo-wrap">

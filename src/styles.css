@@ -270,7 +270,7 @@ button { font: inherit; color: inherit; }
 }
 
 /* ---- Visuals ---- */
-.visual { background: rgba(255, 255, 255, 0.02); border: 1px solid var(--line); border-radius: 16px; padding: 26px 22px 16px; }
+.visual { background: rgba(255, 255, 255, 0.02); border: 1px solid var(--line); border-radius: 16px; padding: 26px 22px 22px; }
 .visual figcaption { text-align: center; color: var(--muted); margin-top: 16px; font-size: 0.7rem; opacity: 0.8; }
 .flow { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 12px; counter-reset: s; position: relative; }
 .flow-step { position: relative; display: flex; flex-direction: column; gap: 8px; padding: 14px 14px 16px; border-radius: 12px; border: 1px solid var(--line-2); background: var(--bg-3); }

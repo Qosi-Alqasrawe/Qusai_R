@@ -111,7 +111,12 @@ export default function Contact() {
               </button>
               <p className={`form-status ${state}`} role="status" aria-live="polite">
                 {state === 'sent' && 'Thank you. Your message was sent and I will get back to you soon.'}
-                {state === 'error' && `Something went wrong. Please email me directly at ${profile.email}.`}
+                {state === 'error' && (
+                  <>
+                    Something went wrong. Please email me directly at{' '}
+                    <a href={`mailto:${profile.email}`}>{profile.email}</a>.
+                  </>
+                )}
               </p>
             </form>
           </Reveal>
