@@ -2,6 +2,7 @@ import { about } from '../data/content'
 import Reveal from './Reveal'
 import SectionHeading from './SectionHeading'
 import Icon from './Icons'
+import portrait from '../assets/qusai.webp'
 
 export default function About() {
   return (
@@ -17,10 +18,10 @@ export default function About() {
           <Reveal className="about-photo-wrap">
             <figure className="photo">
               <img
-                src="/assets/qusai.webp"
+                src={portrait}
                 alt="Portrait of Qusai Awwad, Industrial Engineer"
-                width="515"
-                height="515"
+                width="400"
+                height="400"
                 loading="lazy"
               />
               <span className="corner tl" aria-hidden="true" />

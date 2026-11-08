@@ -22,7 +22,7 @@ All text lives in `src/data/content.js` (profile, experience, case studies, skil
 Add numbers or results only after they are verified.
 
 - CV file: `public/Qusai-Awwad-CV.pdf` (replace the file, keep the name)
-- Portrait: `public/assets/qusai.webp`
+- Portrait: `src/assets/qusai.webp`
 - Case study diagrams: `src/components/Visuals.jsx`
 
 ## Deployment
