@@ -20,8 +20,8 @@ export default function About() {
               <img
                 src={portrait}
                 alt="Portrait of Qusai Awwad, Industrial Engineer"
-                width="400"
-                height="400"
+                width="800"
+                height="800"
                 loading="lazy"
               />
               <span className="corner tl" aria-hidden="true" />
